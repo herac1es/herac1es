@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 - 🔭 I’m currently working on back-end development with Go
 - 🌱 I’m currently learning Go runtime and Redis source code
 
