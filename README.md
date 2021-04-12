@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on back-end development with Go
+- 🌱 I’m currently learning Go runtime and Redis source code
 
 <!--
 **herac1es/herac1es** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
